@@ -1,0 +1,31 @@
+undirected
+15
+sam
+jane
+michele
+sergei
+ricardo
+kaitlin
+samir
+aparna
+ming
+nick
+bob
+heather
+rachel
+rich
+tom
+sam jane 17
+jane bob 41 
+jane kaitlin 22
+kaitlin nick 36
+bob samir 45
+sergei aparna 37
+samir aparna 50
+aparna ricardo 5
+nick ricardo 23
+ming nick 32
+heather nick 4
+michele rachel 13
+michele tom 25
+tom rich 9
